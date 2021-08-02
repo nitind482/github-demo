@@ -1,6 +1,6 @@
 # add
 def add(x,y):
-    return x+y
+    return x+y;
 #sub
 def subtract(x,y):
     return x-y #on master
