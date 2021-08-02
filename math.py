@@ -1,13 +1,13 @@
-#1
+# add
 def add(x,y):
     return x+y
-#2
+#sub
 def subtract(x,y):
     return x-y #on master
-#Multipsly implementation
+#Mssstipsly implementation
 def multiply(x,y):
     return x*y # on bug456
-#4
+#4div
 
 def divide(x,y):
     if(y==0):
