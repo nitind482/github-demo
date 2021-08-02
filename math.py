@@ -6,7 +6,7 @@ def subtract(x,y):
     return x-y #on master
 #Mssstipsly implementation
 def multiply(x,y):
-    return x*y # on bug456
+    return x*y # on mul on local 
 #4div
 
 def divide(x,y):
